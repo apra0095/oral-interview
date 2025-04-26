@@ -9,3 +9,5 @@ this also made by aji
 changes made by bob
 this also made by bob
 
+test for git reset soft
+
